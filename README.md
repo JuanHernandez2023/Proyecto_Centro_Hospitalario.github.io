@@ -1,3 +1,3 @@
-# proyecto-veterinaria
-Proyecto veterinaria
-Grupo_3_Juan_Hernandez
+# proyecto-Hospitalario
+Proyecto Centro_Hospitalario
+Grupo_3_JuanCarlos_HernandezPeña
